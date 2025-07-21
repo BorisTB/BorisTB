@@ -14,7 +14,7 @@
 ⚙️ Expert in **legacy modernization** of web apps that have been through a lot
 <br/>
 
-🦠 Skilled in improving **developer experience** with **clean code** and **devops**
+🦠 Skilled at improving **developer experience** with **clean code** and **devops**
 
  <!-- [1.1] : Seaction Header : Insights & Interests -->
 
